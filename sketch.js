@@ -15,7 +15,7 @@ function setup() {
 function draw(){
   strokeWeight(4);
   stroke(255);
-  frameRate(198);
+  frameRate(18);
   var x = 0;
   for(var x = 0; x < width; x = x + 35){
       fill(random(255), random(255), random(255));
